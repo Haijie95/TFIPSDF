@@ -9,3 +9,13 @@ This repo is to showcase what I have learnt and clean up my own repo
 * Array
 * List
 * Variables
+* Loops
+
+### Day 02
+* Object Orited Programming
+* Constructors
+* Overloading
+* Overriding
+* Access Control
+* Interface
+* Collection
