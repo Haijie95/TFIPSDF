@@ -19,3 +19,10 @@ This repo is to showcase what I have learnt and clean up my own repo
 * Access Control
 * Interface
 * Collection
+
+### Day 03
+* Paths
+* Files
+* Streams
+* Exception
+* Hashmap
