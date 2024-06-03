@@ -46,3 +46,6 @@ This repo is to showcase what I have learnt and clean up my own repo
 
 ### Day 08
 * Card deck game
+
+### Day 09
+* Assessment
