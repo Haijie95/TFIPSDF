@@ -1,5 +1,6 @@
 #Files
 *.class
+*.csv
 
 #Folders
 classes/**
