@@ -43,3 +43,6 @@ This repo is to showcase what I have learnt and clean up my own repo
 * HTML
 * Forms
 * CSS
+
+### Day 08
+* Card deck game
