@@ -26,3 +26,8 @@ This repo is to showcase what I have learnt and clean up my own repo
 * Streams
 * Exception
 * Hashmap
+
+### Day 04
+* Networking
+* Client & Server
+* Threads (Single & Multi)
