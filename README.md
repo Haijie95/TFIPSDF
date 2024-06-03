@@ -35,3 +35,7 @@ This repo is to showcase what I have learnt and clean up my own repo
 ### Day 05
 * Revision
 
+### Day06
+* Lambda
+* Interface
+
