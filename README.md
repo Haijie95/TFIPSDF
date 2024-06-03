@@ -39,3 +39,7 @@ This repo is to showcase what I have learnt and clean up my own repo
 * Lambda
 * Interface
 
+### Day 07
+* HTML
+* Forms
+* CSS
